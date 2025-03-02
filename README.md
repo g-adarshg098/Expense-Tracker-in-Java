@@ -18,6 +18,8 @@ A simple command-line application for tracking expenses. This Java-based Expense
 
 ### Clone the Repository  
 
-```bash  
+```bash
+
+https://roadmap.sh/projects/expense-tracker
 git clone https://github.com/yourusername/expense-tracker.git  
 cd expense-tracker  
